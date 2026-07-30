@@ -1,6 +1,6 @@
 # Reshmaa
 <div align="center">
-# Hi 👋, I'm Reshmaa Chandran
+ Hi 👋, I'm Reshmaa Chandran
 
 ### Artificial Intelligence & Machine Learning Student
 ### Java • Edge AI • Intelligent Systems
@@ -52,8 +52,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,mysql,postgres,git,github,vscode,linux,tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,mysql"/>
+</p>
 
+<p align="center">
+<b>Data Structures & Algorithms</b>
 </p>
 
 ---
@@ -100,15 +103,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reshmaa&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
